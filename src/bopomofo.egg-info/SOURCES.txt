@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+src/bopomofo/__init__.py
+src/bopomofo/words.json
+src/bopomofo.egg-info/PKG-INFO
+src/bopomofo.egg-info/SOURCES.txt
+src/bopomofo.egg-info/dependency_links.txt
+src/bopomofo.egg-info/top_level.txt
